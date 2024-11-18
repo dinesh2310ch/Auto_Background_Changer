@@ -1,6 +1,3 @@
-Certainly! Here's the entire content in a single markdown file format for your `README.md`:
-
-```markdown
 # Auto Wallpaper Changer
 
 ## Description
@@ -14,23 +11,20 @@ You can download this script as a `.zip` file or clone it using Git:
 ```bash
 git clone https://github.com/yourusername/wallpaper-changer.git
 cd wallpaper-changer
-```
+
 
 ### Run the Script:
 1. **Open a terminal or command prompt**.
 2. Navigate to the directory where the script is located.
 3. Run the script using Python:
 
-```bash
 python wallpaper_changer.py
-```
 
 ### Provide Folder Path:
 When prompted, enter the full path to the folder containing your images. For example:
 
-```bash
 Enter the folder path containing images: /path/to/your/images
-```
+
 
 The script will start changing the wallpaper at a default interval of **5 seconds**. You can modify this interval by editing the script if desired.
 
