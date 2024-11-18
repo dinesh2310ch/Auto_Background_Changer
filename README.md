@@ -3,7 +3,8 @@
 ## Description
 The **Auto Wallpaper Changer** is a Python tool that automatically changes your desktop wallpaper by randomly selecting images from a specified folder. It works across **Linux**, **macOS**, and **Windows**, and can run in the background at a customizable interval. Ideal for users who want a dynamic desktop experience with minimal effort.
 
-[Watch the video](https://github.com/dinesh2310ch/Auto_Background_Changer/blob/main/Screencast%20from%2018-11-24%2004%3A01%3A44%20PM%20IST.webm)
+file:///home/himan/Downloads/Screencast%20from%2018-11-24%2004_01_44%20PM%20IST.gif
+
 
 ## How to Run the Script
 
