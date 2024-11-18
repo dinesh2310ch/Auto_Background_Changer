@@ -18,7 +18,9 @@ cd wallpaper-changer
 2. Navigate to the directory where the script is located.
 3. Run the script using Python:
 
-python wallpaper_changer.py
+python3 wallpaper_changer.py
+pip install python-daemon
+
 
 ### Provide Folder Path:
 When prompted, enter the full path to the folder containing your images. For example:
